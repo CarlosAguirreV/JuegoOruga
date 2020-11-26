@@ -25,3 +25,4 @@ Muchas gracias de antemano.
 
 ## 🎁 Agradecimientos
 * [Música - Samba Isobel (Fragmento) - Kevin Mac Leod](https://soundcloud.com/kevin-9-1)
+* [Pygame](https://www.pygame.org/news)
