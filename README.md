@@ -20,7 +20,7 @@ Desde la página de [Games Jolt](https://gamejolt.com/games/snake/403872).
 En otras palabras eres libre de estudiar, modificar y distribuir este código libremente.
 
 ## ❤️ ¿Puedo contribuir de alguna forma?
-Por supuesto, puedes escribir tu comentario en Games Jolt exponiendo lo que te gusta, lo que cambiarías y/o añadirías al proyecto. Pero además puedes [☕ invitarme a un café (donativo pequeño)](https://ko-fi.com/carlosaguirrev) ya que hay que estar varias horas trabajando y necesito mantenerme despierto. Este último me permitirá seguir desarrollando y compartiendo aplicaciones útiles.</br>
+Por supuesto, puedes escribir tu comentario en Games Jolt exponiendo lo que te gusta, lo que cambiarías y/o añadirías al proyecto. Pero además puedes [☕ invitarme a un café (donativo pequeño)](https://ko-fi.com/lunevix) ya que hay que estar varias horas trabajando y necesito mantenerme despierto. Este último me permitirá seguir desarrollando y compartiendo aplicaciones útiles.</br>
 Muchas gracias de antemano.
 
 ## 🎁 Agradecimientos
